@@ -1,0 +1,2 @@
+bin_PROGRAMS=biotranslator
+biotranslator_SOURCES=biotranslator.c
